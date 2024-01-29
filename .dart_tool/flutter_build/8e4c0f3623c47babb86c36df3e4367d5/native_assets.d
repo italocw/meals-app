@@ -1,0 +1,1 @@
+ /home/icaro/Documentos/flutter_projects/meals_app/.dart_tool/flutter_build/8e4c0f3623c47babb86c36df3e4367d5/native_assets.yaml: 
